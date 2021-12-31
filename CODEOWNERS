@@ -956,6 +956,8 @@ homeassistant/components/transmission/* @engrbm87 @JPHutchins
 tests/components/transmission/* @engrbm87 @JPHutchins
 homeassistant/components/tts/* @pvizeli
 tests/components/tts/* @pvizeli
+homeassistant/components/tuxedo/* @b-anantha
+tests/components/tuxedo/* @b-anantha
 homeassistant/components/tuya/* @Tuya @zlinoliver @METISU @frenck
 tests/components/tuya/* @Tuya @zlinoliver @METISU @frenck
 homeassistant/components/twentemilieu/* @frenck

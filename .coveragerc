@@ -1167,6 +1167,9 @@ omit =
     homeassistant/components/transmission/const.py
     homeassistant/components/transmission/errors.py
     homeassistant/components/travisci/sensor.py
+    homeassistant/components/tuxedo/__init__.py
+    homeassistant/components/tuxedo/alarm_control_panel.py
+    homeassistant/components/tuxedo/const.py
     homeassistant/components/tuya/__init__.py
     homeassistant/components/tuya/base.py
     homeassistant/components/tuya/binary_sensor.py

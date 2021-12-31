@@ -318,6 +318,7 @@ FLOWS = [
     "tradfri",
     "trafikverket_weatherstation",
     "transmission",
+    "tuxedo",
     "tuya",
     "twentemilieu",
     "twilio",
